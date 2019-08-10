@@ -1,4 +1,4 @@
-# imagesu
+# URL SHORTNER
 
 ## Project setup
 ```
